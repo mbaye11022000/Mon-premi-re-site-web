@@ -1,0 +1,116 @@
+
+.section {
+    padding:30px;
+  }
+  .limiter-image img{
+  background: rgba(69, 123, 157, 1);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  width: 180px;
+  border-radius: 10px;
+  
+  
+  
+   
+  } 
+  
+  .nav-item{
+    margin-left: center;
+    
+  }
+  .nav-link{
+    text-shadow: #0e0f0f;
+  
+  }
+  
+  .container img{
+    margin-left: 10%;
+    height: 200px;
+  
+  }
+  .btn-bordered {
+    color: rgba(69, 123, 157, 1);
+    border: 2px solid rgba(69, 123, 157, 1); 
+    border-radius: 4px; 
+    }
+  
+    .btn-primary{
+        color: hsl(0, 22%, 96%);
+        background: #457B9D;
+  
+  
+    }
+    .btn-primary img{
+        
+       width: 40px;
+        
+  
+    }
+  
+  
+  
+  
+  .container h4{
+    margin-left: 10%;
+    
+  
+  }
+  .container h6{
+    margin-left: 20%;
+   
+  }
+  
+  
+  .contenu {
+    margin-right: 10%;
+  }
+  
+  .container h7{
+    margin-left: 10%;
+  }
+  
+  .container h6{
+    margin-left: 10%;
+    color: rgb(109, 138, 128);
+  }
+  
+  
+  .card{
+    margin-left: 10%;
+    width: 365px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  
+  }
+  
+  .navbar{
+  width: 1295px;
+  
+  border: 0px, 0px, 1px, 0px;
+  
+  background:  rgb(214, 235, 240);
+  border-bottom: 1px solid rgba(0, 0, 0, 1);
+  box-shadow: 0px 18px 31px 0px  rgb(214, 235, 240);
+  
+  }
+  .UTF-10 img{
+   height:40px;
+   margin-left: -1px;
+    
+  }
+  
+  .col-md-1 img{
+    margin-right: 200%;
+    width: 1000px;
+  
+  }
+  h4{
+    color:  rgba(69, 123, 157, 1);
+
+  }
+  .moussa{
+    margin-left: 100px;
+  }
+  .jumbotron{
+    background-color: rgb(214, 235, 240);
+  }
+
+  
